@@ -1,6 +1,6 @@
 {
-  "name": "noor3s216-simple-calculator",
-  "version": "1.0.0",
+  "name": "noor3s21-mini-calculator",
+  "version": "3.0.2",
   "description": "A Simple calculator with Typescript, Node.js and Inquirer",
   "main": "index.js",
   "type": "module",
